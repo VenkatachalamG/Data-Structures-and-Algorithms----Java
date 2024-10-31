@@ -1,5 +1,5 @@
-import java.util.Arrays;
-import java.util.HashMap;
+package Maps;
+
 import java.util.Hashtable;
 
 public class CountingItems {

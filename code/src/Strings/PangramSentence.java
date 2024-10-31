@@ -1,3 +1,5 @@
+package Strings;
+
 public class PangramSentence {
     public static void main(String[] args) {
         String str = "thequickbrownfoxjumpsoverthelazydog";
